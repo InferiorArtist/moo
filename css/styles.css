@@ -189,7 +189,7 @@ a {
 }
 
 .section3 .title::after {
-  content: url("/images/_Logos/youtube\ black.svg");
+  content: url("https://raw.githubusercontent.com/InferiorArtist/moo/c9d72e7f1ffa036c611ec824659ffa487153a4ef/images/_Logos/youtube%20black.svg");
   height: 10vw !important;
   width: 10vw !important;
   display: inline-block;
@@ -197,7 +197,7 @@ a {
   overflow: none;
 }
 .section3 .title::before {
-  content: 'Click here and let\'s go! ' url('/images/_icons/external\ link.svg');
+  content: 'Click here and let\'s go! ' url('https://raw.githubusercontent.com/InferiorArtist/moo/c9d72e7f1ffa036c611ec824659ffa487153a4ef/images/_icons/external%20link.svg');
   position: absolute;
 
   height:18px;
@@ -265,7 +265,7 @@ a {
 }
 
 .section2 .title::before {
-  content: url("/images/_Logos/TwitchGlitchWhite.svg");
+  content: url("https://raw.githubusercontent.com/InferiorArtist/moo/c9d72e7f1ffa036c611ec824659ffa487153a4ef/images/_Logos/TwitchGlitchWhite.svg");
   height: 5vw;
   width: 5vw;
   display: inline-block;
@@ -275,7 +275,7 @@ a {
 }
 
 .section2 .title::after {
-  content: 'Click here and let\'s go! ' url('/images/_icons/external\ link.svg');
+  content: 'Click here and let\'s go! ' url('https://raw.githubusercontent.com/InferiorArtist/moo/c9d72e7f1ffa036c611ec824659ffa487153a4ef/images/_icons/external%20link.svg');
   position: absolute;
 
   height:18px;
@@ -411,7 +411,7 @@ a {
   height: 80vh
 }
 .links span::after {
-  content: url('/images/_icons/external\ link.svg');
+  content: url('https://raw.githubusercontent.com/InferiorArtist/moo/c9d72e7f1ffa036c611ec824659ffa487153a4ef/images/_icons/external%20link.svg');
   height:18px !important;
   width:18px !important;
   display: inline-block;
